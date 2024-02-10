@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="275" src="https://avatars.githubusercontent.com/u/58855510?v=4"  />
+<img align="right" height="250" src="https://avatars.githubusercontent.com/u/58855510?v=4"  />
 
 ###
 
@@ -30,9 +30,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dtar380&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dtar380&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dtar380&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10" height="350" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dtar380&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dtar380&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dtar380&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="310" alt="streak graph"  />
 </div>
 
 ###
@@ -72,7 +72,3 @@
 </div>
 
 ###
-<!---
-Dtar380/Dtar380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
