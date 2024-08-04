@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">And I'm a young passionate FullStack Developer from Spain!</h3>
 
 ###
