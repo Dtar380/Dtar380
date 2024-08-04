@@ -51,7 +51,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dtar380/Dtar380/output/snake.svg" alt="Snake animation"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dtar380/Dtar380/output/snake.svg" alt="Snake animation"/>
+</div>
 
 ###
 
