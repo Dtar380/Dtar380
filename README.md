@@ -51,8 +51,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Dtar380/Dtar380/output/snake.svg" alt="Snake animation"/>
 
 ###
