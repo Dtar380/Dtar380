@@ -86,26 +86,25 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
-  <img src="https://skillicons.dev/icons?i=regex" height="50" alt="regex logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"/>
+  <img src="https://skillicons.dev/icons?i=regex" height="50" alt="regex logo"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"/>
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=svg" height="50" alt="svg logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"/>
+  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"/>
+  <img src="https://skillicons.dev/icons?i=svg" height="50" alt="svg logo"/>
 </div>
 
 ###
