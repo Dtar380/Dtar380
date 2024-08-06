@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="windows.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" /><defs
+     id="defs1"><style
+       id="style1">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:url(#linear-gradient);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:url(#linear-gradient-2);}</style></defs><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#242938;fill-opacity:1;stroke-width:1"
+       id="rect1"
+       width="512"
+       height="512"
+       x="0"
+       y="5.8339168e-08"
+       rx="65.232193"
+       ry="65.232193" /><g
+       fill="none"
+       id="g3"
+       style="display:inline;stroke:#00979c"
+       transform="matrix(0.53151351,0,0,0.53456381,65.125639,164.9223)"><path
+         d="M 174,30 C 78.9,22.43 -1,135 38,222 c 38,94.4 181,120 249,44.4 65.9,-64.6 91.3,-164 172,-215 82,-56 214,-3.12 230,96.4 15.6,95.3 -87.1,188 -180,160 -68.7,-15.5 -118,-74.2 -146,-136 -34.5,-59 -79.6,-122 -150,-138 -12.5,-2.84 -25.4,-3.96 -38.2,-3.94 z"
+         stroke-width="59"
+         id="path1-5"
+         style="display:inline;fill:#ffffff;fill-opacity:0" /><path
+         d="M 118,165 H 238"
+         stroke-width="25"
+         id="path2" /><path
+         d="M 486,165 H 586 M 535,115 V 215"
+         stroke-width="32"
+         id="path3" /></g></g><style
+     id="style1-1">*{fill:#36c}</style><style
+     type="text/css"
+     id="style1-5">.st0{fill:#0acf83}.st1{fill:#a259ff}.st2{fill:#f24e1e}.st3{fill:#ff7262}.st4{fill:#1abcfe}</style></svg>

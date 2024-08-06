@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="markdown.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" /><defs
+     id="defs1" /><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#242938;fill-opacity:1;stroke-width:1"
+       id="rect1"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       rx="65.232193"
+       ry="65.232193" /><rect
+       style="fill:#d00000;fill-opacity:1;stroke-width:1"
+       id="rect1-4"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       rx="65.232193"
+       ry="65.232193" /><g
+       id="g1"
+       transform="matrix(4,0,0,3.796875,0,13)"><path
+         d="m 34.1,99.3 c 0,0.1 0.1,0.2 0.1,0.3 l 2.2,2.2 c 0.1,0.1 0.2,0.1 0.3,0.1 h 7.5 c 0.1,0 0.2,-0.1 0.3,-0.1 l 2.2,-2.2 c 0.1,-0.1 0.1,-0.2 0.1,-0.3 V 75.5 c 0,-0.1 0.1,-0.2 0.1,-0.3 l 9.5,-9.1 c 0.1,-0.1 0.2,-0.1 0.2,0 l 24.1,35.6 c 0.1,0.1 0.2,0.1 0.3,0.1 h 10.6 c 0.1,0 0.2,-0.1 0.3,-0.2 l 1.9,-3.7 V 97.6 L 65.7,56.9 c -0.1,-0.1 0,-0.2 0,-0.3 L 91.6,30.8 c 0.1,-0.1 0.1,-0.2 0.1,-0.3 V 30 c 0,-0.1 0,-0.2 -0.1,-0.3 l -1.5,-3.4 c 0,-0.1 -0.1,-0.2 -0.2,-0.2 H 79.4 c -0.1,0 -0.2,0.1 -0.3,0.1 L 47,58.5 c -0.1,0.1 -0.1,0 -0.1,-0.1 V 28.9 c 0,-0.1 -0.1,-0.2 -0.1,-0.3 l -2.2,-2.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 h -7.6 c -0.1,0 -0.2,0.1 -0.3,0.1 l -2.2,2.4 c -0.1,0.1 -0.1,0.2 -0.1,0.3 z"
+         style="fill:#ffffff"
+         id="path2" /></g></g></svg>

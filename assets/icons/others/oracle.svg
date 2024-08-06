@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="render.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" /><defs
+     id="defs1"><style
+       id="style1">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:url(#linear-gradient);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:url(#linear-gradient-2);}</style></defs><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#242938;fill-opacity:1;stroke-width:1"
+       id="rect1"
+       width="512"
+       height="512"
+       x="0"
+       y="5.8339168e-08"
+       rx="65.232193"
+       ry="65.232193" /><path
+       d="M 185.07009,377 C 117.80888,377 64,323.22222 64,256 64,188.77778 117.80888,135 185.07009,135 H 326.92996 C 394.19109,135 448,188.77778 448,256 448,323.22222 394.19109,377 326.92996,377 Z M 323.2612,334.22223 c 44.02537,0 78.26746,-35.44445 78.26746,-78.22223 0,-44 -35.46496,-78.22223 -78.26746,-78.22223 H 188.73885 c -44.0255,0 -78.26749,35.44444 -78.26749,78.22223 0,42.77778 35.46498,78.22223 78.26749,78.22223 z"
+       fill="#c74634"
+       id="path1-3"
+       style="fill:#c74634;fill-opacity:1;stroke-width:12.2258" /></g><style
+     id="style1-1">*{fill:#36c}</style><style
+     type="text/css"
+     id="style1-5">.st0{fill:#0acf83}.st1{fill:#a259ff}.st2{fill:#f24e1e}.st3{fill:#ff7262}.st4{fill:#1abcfe}</style></svg>

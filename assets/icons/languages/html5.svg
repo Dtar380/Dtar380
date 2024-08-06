@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" /><defs
+     id="defs1" /><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#242938;fill-opacity:1;stroke-width:1"
+       id="rect1"
+       width="512"
+       height="512"
+       x="0"
+       y="5.8339168e-08"
+       rx="65.232193"
+       ry="65.232193" /><path
+       id="rect1-9"
+       style="fill:#e14e1d;stroke-width:0.707107"
+       d="M 64.571892,0 C 128.44242,-1.1258808 256,0 256,0 v 512 c 0,0.30956 -129.17613,0 -191.428108,0 C 28.799064,512 0,483.20094 0,447.42811 V 64.571892 C 0,28.799064 28.804621,0.63048934 64.571892,0 Z"
+       sodipodi:nodetypes="sccssss" /><path
+       id="rect1-9-7"
+       style="fill:#f16529;fill-opacity:1;stroke-width:0.707107"
+       d="m 447.42811,0.50039111 c -63.87053,-1.12588 -191.42811,0 -191.42811,0 V 512.50039 c 0,0.30956 129.17613,0 191.42811,0 C 483.20094,512.50039 512,483.70133 512,447.9285 V 65.072281 C 512,29.299451 483.19538,1.1308811 447.42811,0.50039111 Z"
+       sodipodi:nodetypes="sccssss" /><g
+       id="g6"
+       transform="matrix(1.4940766,0,0,1.4940766,-126.15888,-199.4057)"><path
+         fill="#ebebeb"
+         d="m 142,176.3 h 114 v 45.4 h -64.2 l 4.2,46.5 h 60 v 45.3 H 154.4 m 2,22.8 H 202 l 3.2,36.3 50.8,13.6 v 47.4 l -93.2,-26"
+         id="path4" /><path
+         fill="#ffffff"
+         d="M 369.6,176.3 H 255.8 v 45.4 h 109.6 m -4.1,46.5 H 255.8 v 45.4 h 56 l -5.3,59 -50.7,13.6 v 47.2 l 93,-25.8"
+         id="path5" /></g></g></svg>
