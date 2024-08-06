@@ -33,8 +33,7 @@
     <img alt="Twitch status" title="Follow my Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/dtar380_yt?color=%23A444E0&label=FOLLOW&logo=device-camera-video&logoColor=white&style=for-the-badge&labelColor=9133D4" height="30">
   </a>
   <a href="https://github.com/Dtar380?tab=repositories" target="_blank">
-    <img alt="GitHub Stars" title="See my repositories" src="https://custom-icon-badges.demolab.com/github/stars/Dtar380?style=for-the-badge&logo=star&logoColor=white&label=STARS&labelColor=488207&color=55960C
-    " height="30">
+    <img alt="GitHub Stars" title="See my repositories" src="https://custom-icon-badges.demolab.com/github/stars/Dtar380?style=for-the-badge&logo=star&logoColor=white&label=STARS&labelColor=488207&color=55960C%0D%0A%20%20%20%20" height="30">
   </a>
   <a href="https://github.com/Dtar380/ViewCounterPython">
     <img alt="Profile Views" title="Views of my profile" src="https://viewcounterpython.onrender.com/Dtar380" height="30">
