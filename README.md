@@ -93,6 +93,9 @@
   <a href="https://github.com/Dtar380/VideoService">
     <img alt="Dtar380/VideoService" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=VideoService&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
+  <a href="https://github.com/Dtar380/WorkspaceAutomation">
+    <img alt="Dtar380/ViewCounterPython" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=WorkspaceAutomation&theme=dark&hide_border=true&description_lines_count=1" height="90">
+  </a>
   <a href="https://github.com/Dtar380/TradingBotWeb">
     <img alt="Dtar380/TradingBotWeb" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=TradingBotWeb&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
