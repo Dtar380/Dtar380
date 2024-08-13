@@ -36,7 +36,7 @@
     <img alt="GitHub Stars" title="See my repositories" src="https://custom-icon-badges.demolab.com/github/stars/Dtar380?labelColor=488207&color=55960C&logo=star&logoColor=white&label=STARS&style=for-the-badge&%0D%0A%20%20%20%20" height="30">
   </a>
   <a href="https://github.com/Dtar380/ViewCounterPython">
-    <img alt="Profile Views" title="Views of my profile" src="" height="30">
+    <img alt="Profile Views" title="Views of my profile" src="https://viewcounterpython.onrender.com/Dtar380" height="30">
   </a>
   <a href="https://github.com/Dtar380">
     <img alt="Portfolio" title="See my portfolio (on work)" src="https://custom-icon-badges.demolab.com/static/v1?message=PORTFOLIO&logo=log&label=&color=236AD3&logoColor=white&labelColor=1155BA&style=for-the-badge" height="30">
