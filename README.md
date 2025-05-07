@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dtar380/Dtar380/output/snake.svg" alt="Snake animation"> 
+  <img src="https://raw.githubusercontent.com/Dtar380/Dtar380/output/snake.svg" alt="Snake animation">
 </div>
 
 ###
@@ -117,21 +117,7 @@
 <br clear="both">
 
 <div align="center">
-  <img alt="Python" title="Python" src="assets/icons/languages/python.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Html" title="Html" src="assets/icons/languages/html5.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Css" title="Css" src="assets/icons/languages/css3.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="JavaScript" title="JavaScript" src="assets/icons/languages/js.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="TypeScript" title="TypeScript" src="assets/icons/languages/ts.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Arduino" title="Arduino" src="assets/icons/languages/arduino.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Regex" title="Regex" src="assets/icons/languages/regex.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Markdown" title="Markdown" src="assets/icons/languages/markdown.svg" height="64">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,md" height="64">
 </div>
 
 <div style="font-size: 2px;">
@@ -139,23 +125,7 @@
 </div>
 
 <div align="center">
-  <img alt="Flask" title="Flask" src="assets/icons/libraries/flask.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="VideoService" title="VideoService" src="assets/icons/libraries/VideoService.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Numpy" title="Numpy" src="assets/icons/libraries/numpy.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Pandas" title="Pandas" src="assets/icons/libraries/pandas.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Tensorflow" title="Tensorflow" src="assets/icons/libraries/tensorflow.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Keras" title="Keras" src="assets/icons/libraries/keras.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="NodeJS" title="NodeJS" src="assets/icons/tools/nodeJS.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Anaconda" title="Anaconda" src="assets/icons/tools/anaconda.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Docker" title="Docker" src="assets/icons/tools/docker.svg" height="64">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,jquery,regex,latex" height="64">
 </div>
 
 <div style="font-size: 2px;">
@@ -163,21 +133,7 @@
 </div>
 
 <div align="center">
-  <img alt="Figma" title="Figma" src="assets/icons/tools/figma.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Inkscape" title="Inkscape" src="assets/icons/tools/inkscape.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Gimp" title="Gimp" src="assets/icons/tools/gimp.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Blender" title="Blender" src="assets/icons/tools/blender.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Resolve" title="Resolve" src="assets/icons/tools/resolve.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Audacity" title="Audacity" src="assets/icons/tools/audacity.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="VisualStudio" title="VisualStudio" src="assets/icons/tools/vs.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="VSCode" title="VSCode" src="assets/icons/tools/vscode.svg" height="64">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,aws,firebase,docker" height="64">
 </div>
 
 <div style="font-size: 2px;">
@@ -185,23 +141,7 @@
 </div>
 
 <div align="center">
-  <img alt="Git" title="Git" src="assets/icons/tools/git.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="GitHub" title="GitHub" src="assets/icons/tools/github.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="GitHub Action" title="GitHub Actions" src="assets/icons/others/githubActions.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Powershell" title="Powershell" src="assets/icons/tools/powershell.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Vercel" title="Vercel" src="assets/icons/others/vercel.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Render" title="Render" src="assets/icons/others/render.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Oracle" title="Oracle" src="assets/icons/others/oracle.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="FileZilla" title="FileZilla" src="assets/icons/tools/filezilla.svg" height="64">
-  <img src="assets/blank.png" width="1">
-  <img alt="Putty" title="Putty" src="assets/icons/tools/putty.svg" height="64">
+  <img src="https://skillicons.dev/icons?i=vscode,powershell,figma,obsidian,notion,windows" height="64">
 </div>
 
 ###
