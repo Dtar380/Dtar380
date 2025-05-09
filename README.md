@@ -153,5 +153,7 @@
 <br clear="both">
 
 <div align="center" dir="auto">
-<a href="https://ko-fi.com/dtar380" rel="nofollow"><img height="64" style="height: 64px; max-width: 100%;" src="https://camo.githubusercontent.com/764ebab9edb20996467172a4c43497c33ec046be10993357056dd9f0431fa13f/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669312e706e673f763d33" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"></a>
+  <a href="https://ko-fi.com/dtar380" rel="nofollow">
+    <img height="64" style="height: 48px; max-width: 100%;" src="https://ko-fi.com/img/githubbutton_sm.svg" border="0" alt="Buy Me a Ko-fi">
+  </a>
 </div>
