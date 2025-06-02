@@ -70,9 +70,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dtar380&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=All%20time%20stats&card_width=1" height="130" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dtar380&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dark&hide_border=true&order=2" height="130" alt="languages graph">
-  <img src="https://streak-stats.demolab.com?user=Dtar380&theme=dark&hide_border=true&border_radius=5&mode=weekly&card_width=535&card_height=225" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=dtar380&theme=dark&show_icons=true&hide_border=true&count_private=true" height="130" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtar380&theme=dark&show_icons=true&hide_border=true&layout=compact" height="130" alt="languages graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtar380&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
 <br clear="both">
