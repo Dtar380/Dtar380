@@ -91,16 +91,16 @@
     <img alt="Dtar380/PyLauncher" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=PyLauncher&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/VideoService">
-    <img alt="Dtar380/VideoService" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=VideoService&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/VideoService" title="VideoService" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=VideoService&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/WorkspaceAutomation">
-    <img alt="Dtar380/ViewCounterPython" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=WorkspaceAutomation&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/WorkspaceAutomation" title="WorkspaceAutomation" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=WorkspaceAutomation&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
-  <a href="https://github.com/Dtar380/TradingBotWeb">
-    <img alt="Dtar380/TradingBotWeb" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=TradingBotWeb&theme=dark&hide_border=true&description_lines_count=1" height="90">
+  <a href="https://github.com/Dtar380/Investment-Portfolio-APP">
+    <img alt="Dtar380/Investment-Portfolio-APP" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=Investment-Portfolio-APP&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/ViewCounterPython">
-    <img alt="Dtar380/ViewCounterPython" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=ViewCounterPython&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/ViewCounterPython" title="ViewCounterPython" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=ViewCounterPython&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
 <div>
 
