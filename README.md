@@ -99,8 +99,8 @@
   <a href="https://github.com/Dtar380/Investment-Portfolio-APP">
     <img alt="Dtar380/Investment-Portfolio-APP" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=Investment-Portfolio-APP&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
-  <a href="https://github.com/Dtar380/ViewCounterPython">
-    <img alt="Dtar380/ViewCounterPython" title="ViewCounterPython" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=ViewCounterPython&theme=dark&hide_border=true&description_lines_count=1" height="90">
+  <a href="https://github.com/Dtar380/MinecraftDockerCLI">
+    <img alt="Dtar380/MinecraftDockerCLI" title="MinecraftDockerCLI" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=MinecraftDockerCLI&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
 <div>
 
