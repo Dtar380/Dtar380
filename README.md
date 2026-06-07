@@ -97,7 +97,7 @@
     <img alt="Dtar380/WorkspaceAutomation" title="WorkspaceAutomation" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=WorkspaceAutomation&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/Investment-Portfolio-APP">
-    <img alt="Dtar380/Investment-Portfolio-APP" title="PyLauncher" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=Investment-Portfolio-APP&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/Investment-Portfolio-APP" title="PyLauncher" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=MinecraftModPackCLI&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/MinecraftDockerCLI">
     <img alt="Dtar380/MinecraftDockerCLI" title="MinecraftDockerCLI" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=MinecraftDockerCLI&theme=dark&hide_border=true&description_lines_count=1" height="90">
