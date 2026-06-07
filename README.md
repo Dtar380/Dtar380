@@ -70,8 +70,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dtar380&theme=dark&show_icons=true&hide_border=true&count_private=true" height="130" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtar380&theme=dark&show_icons=true&hide_border=true&layout=compact" height="130" alt="languages graph">
+  <img src="https://github-stats-extended.vercel.app/api?username=dtar380&theme=dark&show_icons=true&hide_border=true&count_private=true" height="130" alt="stats graph">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dtar380&theme=dark&show_icons=true&hide_border=true&layout=compact" height="130" alt="languages graph">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtar380&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
@@ -85,22 +85,22 @@
 
 <div align="center">
   <a href="https://github.com/Dtar380/P-SS">
-    <img alt="Dtar380/P-SS" title="PASS" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=P-SS&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/P-SS" title="PASS" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=P-SS&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/PyLauncher">
-    <img alt="Dtar380/PyLauncher" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=PyLauncher&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/PyLauncher" title="PyLauncher" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=PyLauncher&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/VideoService">
-    <img alt="Dtar380/VideoService" title="VideoService" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=VideoService&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/VideoService" title="VideoService" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=VideoService&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/WorkspaceAutomation">
-    <img alt="Dtar380/WorkspaceAutomation" title="WorkspaceAutomation" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=WorkspaceAutomation&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/WorkspaceAutomation" title="WorkspaceAutomation" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=WorkspaceAutomation&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/Investment-Portfolio-APP">
-    <img alt="Dtar380/Investment-Portfolio-APP" title="PyLauncher" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=Investment-Portfolio-APP&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/Investment-Portfolio-APP" title="PyLauncher" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=Investment-Portfolio-APP&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
   <a href="https://github.com/Dtar380/MinecraftDockerCLI">
-    <img alt="Dtar380/MinecraftDockerCLI" title="MinecraftDockerCLI" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=MinecraftDockerCLI&theme=dark&hide_border=true&description_lines_count=1" height="90">
+    <img alt="Dtar380/MinecraftDockerCLI" title="MinecraftDockerCLI" src="https://github-stats-extended.vercel.app/api/pin/?show_owner=True&username=Dtar380&repo=MinecraftDockerCLI&theme=dark&hide_border=true&description_lines_count=1" height="90">
   </a>
 <div>
 
